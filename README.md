@@ -15,7 +15,12 @@ There are options where PDFs can be created with JSON using Pdfjs and other opti
 
 At the end of the day, hashing the document by importing it as a binary is a better alternative instead of parsing contents since there is a chance where it can be manipulated as a result of dependency injected vuln.
 
-References:
+
+### Usage:
+- Install Nodejs
+- run `npm i && node index.js`
+
+#### References:
 - https://www.npmjs.com/package/pdf2json
 - https://www.npmjs.com/package/pdf-parse
 - https://github.com/adrienjoly/npm-pdfreader
