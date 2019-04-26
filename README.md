@@ -17,4 +17,15 @@ At the end of the day, hashing the document by importing it as a binary is a bet
 
 References:
 - https://www.npmjs.com/package/pdf2json
-- pdf-parse
+- https://www.npmjs.com/package/pdf-parse
+- https://github.com/adrienjoly/npm-pdfreader
+- https://github.com/mozilla/pdf.js/
+- https://github.com/adrienjoly/npm-pdfreader
+- https://stackoverflow.com/questions/8305988/convert-binary-tostringencode64-back-to-binary
+- https://nodejs.org/api/crypto.html
+- https://www.npmjs.com/package/sha256
+- https://www.npmjs.com/package/pdf-stream
+- https://github.com/foliojs/pdfkit
+- http://pdfkit.org/
+- https://github.com/bpampuch/pdfmake
+- https://medium.com/@kainikhil/nodejs-how-to-generate-and-properly-serve-pdf-6835737d118e
